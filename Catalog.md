@@ -289,7 +289,7 @@
 包含内容：
 * 概述
 * 跨应用调度
-    - 动态资源分配
+    - 动态资源分配   job-scheduling-Dynamic_Resource_Allocation.md
         - 配置和部署
         - 资源分配策略
             - 请求策略
